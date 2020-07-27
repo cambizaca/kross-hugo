@@ -4,8 +4,8 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "Kross"
 [[menu.main]]
-URL = "about"
-name = "About"
+URL = "about-us"
+name = "About Us"
 weight = 1
 [[menu.main]]
 URL = "blog"
@@ -39,8 +39,6 @@ gmap_api = "https://maps.googleapis.com/maps/api/js?key=&#038;types=(cities)&#03
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
 map_marker = "images/marker.png"
-[[params.plugins.css]]
-link = ""
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
